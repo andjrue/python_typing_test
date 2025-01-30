@@ -1,0 +1,6 @@
+1. Need to work on the UI
+    -> This will require reading some docs.
+    -> I'm going to use curses so the test will be terminal based.
+
+2. Need to figure out how to keep track of inaccuracies
+3. Make the UI pretty, maybe if a letter is wrong highlight it in red, etc?
